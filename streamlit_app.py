@@ -98,15 +98,16 @@ def build_region(region, mirrored=False):
     region_html = f'<div class="region {"mirrored" if mirrored else ""}">'
     for r in rounds:
         games = get_games(region, r)
-        if mirrored: games = games[::-1]
+        # REMOVE OR COMMENT OUT THIS LINE:
+        # if mirrored: games = games[::-1] 
+        
         round_html = f'<div class="round {r.lower()}">'
         for g in games:
             round_html += game_box(g)
         round_html += '</div>'
         region_html += round_html
-    region_html += '</div>'
+    region_html += "</div>"
     return region_html
-
 # -------------------------
 # Build center (Champ Only)
 # -------------------------
