@@ -25,12 +25,12 @@ West R1-7,Miami,Daniel
 West R1-8,Purdue,Daniel
 Midwest R1-1,Michigan,Daniel
 Midwest R1-2,Saint-Louis,Daniel
-Midwest R1-3,McNeese,Daniel
-Midwest R1-4,Troy,Daniel
-Midwest R1-5,VCU,Daniel
-Midwest R1-6,Penn,Daniel
-Midwest R1-7,Texas-A&M,Daniel
-Midwest R1-8,Idaho,Daniel
+Midwest R1-3,Texas-Tech,Daniel
+Midwest R1-4,Alabama,Daniel
+Midwest R1-5,Tennessee,Daniel
+Midwest R1-6,Virginia,Daniel
+Midwest R1-7,Kentucky,Daniel
+Midwest R1-8,Ohio-St.,Daniel
 East R2-1,Duke,Daniel
 East R2-2,St-Johns,Daniel
 East R2-3,MICHST,Daniel
@@ -44,9 +44,9 @@ West R2-2,Wisconsin,Daniel
 West R2-3,Gonzaga,Daniel
 West R2-4,Purdue,Daniel
 Midwest R2-1,Michigan,Daniel
-Midwest R2-2,Nebraska,Daniel
-Midwest R2-3,Illinois,Daniel
-Midwest R2-4,Houston,Daniel
+Midwest R2-2,Alabama,Daniel
+Midwest R2-3,Tennessee,Daniel
+Midwest R2-4,Iowa-St.,Daniel
 East S16-1,Duke,Daniel
 East S16-2,MICHST,Daniel
 South S16-1,Florida,Daniel
@@ -54,11 +54,11 @@ South S16-2,Houston,Daniel
 West S16-1,Arizona,Daniel
 West S16-2,Purdue,Daniel
 Midwest S16-1,Alabama,Daniel
-Midwest S16-2,MARYCA,Daniel
+Midwest S16-2,Iowa-St.,Daniel
 East E8-1,Duke,Daniel
-South E8-1,N.-Carolina,Daniel
+South E8-1,Florida,Daniel
 West E8-1,Arizona,Daniel
-Midwest E8-1,Tennessee,Daniel
+Midwest E8-1,Iowa-St.,Daniel
 F4-1,Duke,Daniel
 F4-2,Arizona,Daniel
 Champ,Arizona,Daniel
